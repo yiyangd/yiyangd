@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Apart from technical projects, I have a life-long plan, which is completing at least one Short Film/ On-Stage Show/ Music per year till I leave this beautiful world!
 
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shanerbo)](https://github.com/anuraghazra/github-readme-stats)
