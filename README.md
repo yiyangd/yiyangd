@@ -4,15 +4,11 @@
 **yiyangd/yiyangd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
- Currently a CS Statistics double major student at SFU\
-
-:desktop_computer: Freelance Web Developer
-
 
 Here are some ideas to get you started:
 
 - :infinity: I’m currently a Mathmatics and Computing Science Major student @SFU
-- :desktop_computer: Freelance Web Developer
+- :desktop_computer: I'm working as a Freelance Web Developer
 
 - 🌱 I’m currently learning React, Nodejs, Spring Boot... 
 - 👯 I’m looking to collaborate on people 
