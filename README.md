@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - :desktop_computer:  I'm working as a Freelance Web Developer
 
 - 🌱 I’m currently learning React, Nodejs, Spring Boot... Learning makes me feel safe！！！
-- 🤔 I’m looking for help with people who may potentially need my help!
+- 🤔 I’m willing to help those people who may potentially need my help!
   - When I could help, I will help without any hesitation!
   - When I could not help, I will say sorry and not be afraid being alone to make me better!
 - 💬 Ask me about Math and Statistics Questions! I am also a Math/Stat Tutor for high school students and freshmen/sophomores
