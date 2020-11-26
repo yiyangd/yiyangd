@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Math and Statistics Questions! I am also a Math/Stat Tutor for high school students and freshmen/sophomores
 - 📫 How to reach me: yiyangd@sfu.ca
 - 😄 Pronouns: **Rational optimism** and **Positive Thinking** in any situation are two parts of my advantages.
+  - I believe any challenges are solvable as our problem-solving skills improve
   - *Do not cross the bridge till you come to it*
   - 车到山前必有路，船到桥头自会直
 - ⚡ Fun fact: Apart from technical projects, I have a life-long plan, which is completing at least one Short Film/ On-Stage Show/ Music per year till I leave this beautiful world!
