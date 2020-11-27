@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: yiyangd@sfu.ca
 - 😄 Pronouns: **Rational optimism** and **Positive Thinking** in any situation are two parts of my advantages.
   - I recovered from pneumothorax surgery and spent one year on training myself to finish a half-marathon in 2 hours!
+    - Goal: finish half-marathon in 1.5 hrs and first marathon in 4.5 hours in 2021
   - I believe any challenges are solvable as our problem-solving skills improve
   - *Do not cross the bridge till you come to it*
   - 车到山前必有路，船到桥头自会直
