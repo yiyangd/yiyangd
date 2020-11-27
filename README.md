@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: **Rational optimism** and **Positive Thinking** in any situation are two parts of my advantages.
   - I recovered from pneumothorax surgery and spent one year on training myself to finish a half-marathon in 2 hours!
     - Goal: finish half-marathon in 1.5 hrs and first marathon in 4.5 hours in 2021
-  - I believe any challenges are solvable as our problem-solving skills improve
+  - I run as long as I can, to conquer my inner depression, to illuminate the indifference of the relationship, and to transcend mortality
   - *Do not cross the bridge till you come to it*
-  - 车到山前必有路，船到桥头自会直
 - ⚡ Fun fact: Apart from technical projects, I have a life-long plan, which is completing at least one Short Film/ On-Stage Show/ Music per year till I leave this beautiful world!
