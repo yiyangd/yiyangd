@@ -16,7 +16,7 @@ Here are some ideas to get you started:
   - I am not interested in AI, but I am interested in the areas I could beat AI!!
 - 🤔 I’m willing to help those people who may potentially need my help!
   - When I could help, I will help without any hesitation!
-  - When I could not help, I will say sorry and not be afraid being alone to make me better!
+  - When I could not help, I will say sorry and not be afraid of being alone to make me better!... then to help!
 - 💬 Ask me about Math and Statistics Questions! I am also a Math/Stat Tutor for high school students and freshmen/sophomores
 - 📫 How to reach me: yiyangd@sfu.ca
 - 😄 Pronouns: **Rational optimism** and **Positive Thinking** in any situation are two parts of my advantages.
