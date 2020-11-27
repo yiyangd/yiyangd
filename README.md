@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   - When I could not help, I will say sorry and not be afraid of being alone to make me better!... then to help!
 - 💬 Ask me about Math and Statistics Questions! I am also a Math/Stat Tutor for high school students and freshmen/sophomores
 - 📫 How to reach me: yiyangd@sfu.ca
-- 😄 Pronouns: **Rational optimism** and **Positive Thinking** in any situation are two parts of my advantages.
+- 😄 Pronouns: **Rational Optimism** and **Positive Thinking** in any situation are two parts of my advantages.
   - I recovered from pneumothorax surgery and spent one year on training myself to finish a half-marathon in 2 hours!
     - Goal: finish half-marathon in 1.5 hrs and first marathon in 4.5 hours in 2021
   - I run as long as I can, to conquer my inner depression, to illuminate the indifference of the relationship, and to transcend mortality
