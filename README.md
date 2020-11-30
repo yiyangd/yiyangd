@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning React, Nodejs, Spring Boot... Learning makes me feel safe！！！
   - I would love to learn anything that makes me valuable and feel wanted!!!
   - I believe when we know the reason of learning, the pain will be gone!!!
-  - I am not interested in AI, but I am interested in the areas I could beat AI!!
 - 🤔 I’m willing to help those people who may potentially need my help!
   - When I could help, I will help without any hesitation!
   - When I could not help, I will say sorry and not be afraid of being alone to make me better!... then to help!
+  - Learning helps me to help more people!
 - 💬 Ask me about Math and Statistics Questions! I am also a Math/Stat Tutor for high school students and freshmen/sophomores
 - 📫 How to reach me: yiyangd@sfu.ca
 - 😄 Pronouns: **Rational Optimism** and **Positive Thinking** in any situation are two parts of my advantages.
