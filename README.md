@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on people 
 
 -->
-- :infinity:  I’m currently a Mathmatics and Computing Science Major student @SFU
+- :infinity:  I’m currently a Computing Science and Statistics Double Major student @SFU
 - :desktop_computer:  I'm working as a Web Developer 
 
 - 🌱 I’m currently learning React, Nodejs, Spring Boot... Learning makes me feel safe！！！
