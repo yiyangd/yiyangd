@@ -9,9 +9,9 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi <img width="45" src="handwaving.gif">, I'm Yiyang Dong </h1>
 <p align="center">
+  
 - :infinity:  I’m currently a Computing Science and Statistics Double Major student @SFU
 - :desktop_computer:  I'm working as a Web Developer 
-
 - 🌱 I’m currently learning React, Nodejs, Spring Boot... Learning makes me feel safe！！！
   - I would love to learn anything that makes me valuable and feel wanted!!!
   - I believe when we know the reason of learning, the pain will be gone!!!
