@@ -26,6 +26,6 @@ Here are some ideas to get you started:
     - Goal: finish half-marathon in 1.5 hrs and first marathon in 4.5 hours in 2021
   - I run as long as I can, to conquer my inner depression, to illuminate the indifference of the relationship, and to transcend mortality
   - *Do not cross the bridge till you come to it*
-- ⚡ Fun fact: Apart from technical projects, I have a life-long plan, which is completing at least one Short Film/ On-Stage Show/ Music per year till I leave this beautiful world!
+- ⚡ Fun fact: Apart from technical projects, I have a life-long plan, which is completing at least one Short Film/ or On-Stage Show/ or Music Remix  per year since 2020 till I leave this beautiful world!
   - 2020: 《Hey Jude》 Chinese Version
   - 2021: 《Starry Ballad》 (星空叙事曲）... 
